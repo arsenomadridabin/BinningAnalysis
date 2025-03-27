@@ -1188,6 +1188,7 @@ def get_atom_distribution_average(all_data):
                 ws.cell(row=bin_number+2, column=ATOM_CLASS_MAPPER_NUMBER[graph_output] + 8, value=round((value/NO_OF_BUCKET)*100,2))
         
         wb.save(xlsx_file)
+        wb.close()
         """
         if analysis_list_max_val == 0:
                 print("1")
