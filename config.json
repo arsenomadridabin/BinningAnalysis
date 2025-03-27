@@ -1,0 +1,48 @@
+{
+    "low_cut_off_metal": 44,
+    "high_cut_off_silicate": 8,
+    "files": [
+        "fe_in_fe_Count.xlsx",
+        "mg_in_fe_Count.xlsx",
+        "si_in_fe_Count.xlsx",
+        "o_in_fe_Count.xlsx",
+        "n_in_fe_Count.xlsx",
+        "h_in_fe_Count.xlsx"
+    ],
+    "atomic_mass": {
+        "fe": 55.845,
+        "mg": 24.305,
+        "si": 28.0855,
+        "o": 15.9994,
+        "n": 14.0067,
+        "h": 1.00784
+    },
+    "column_widths": {
+        "composition": {
+            "A": 15,
+            "B": 20,
+            "C": 15,
+            "D": 15,
+            "E": 20,
+            "F": 20,
+            "G": 20,
+            "H": 20,
+            "I": 20,
+            "J": 20,
+            "K": 20
+        },
+        "final": {
+            "A": 15,
+            "B": 15,
+            "C": 15,
+            "D": 15,
+            "E": 15,
+            "F": 15,
+            "G": 15,
+            "H": 15,
+            "I": 15,
+            "J": 15,
+            "K": 15
+        }
+    }
+}
